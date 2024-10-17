@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there! 👋 I'm Aramali Mohammed, a passionate software developer with a knack for problem-solving and a love for creativity. I'm constantly exploring new technologies, sharpening my skills, and working on exciting projects that challenge my abilities. I enjoy turning ideas into reality, whether through coding, building apps, or collaborating with others to create innovative solutions.
+Hi there! 👋 I'm Aramali Mohammed, Aspiring Software Engineer with strong expertise in web and mobile development using technologies like Spring Boot, React, Next.js, Flutter, and Tailwind CSS. Experienced in building scalable applications, including e-learning platforms, management systems, and voting systems. Proficient in DevOps tools like Docker, Kubernetes, Jenkins, and AWS, as well as database management (MySQL, Oracle, PostgreSQL). Strong problem-solving skills and a collaborative team player, seeking a 6-month internship to apply and expand technical skills in a real-world setting.
+
 
 
 ## 🌐 Socials:
